@@ -1,0 +1,57 @@
+{
+	"Categories":
+	[
+
+          {
+             "category_name": "All",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/All.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Cities",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Cities.jpg",
+             "premium": "true"
+          },
+          {
+             "category_name": "Food",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Food.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Landscape",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Material",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Material.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Minimalist",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Misc",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Misc.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Space",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Space.jpg",
+             "premium": "false"
+          },
+          {
+             "category_name": "Evolve Remake",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Evolve Remake.jpg",
+             "premium": "false"
+           },
+          {
+             "category_name": "Alternatives",
+             "category_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Alternatives.jpg",
+             "premium": "false"
+             
+          }
+	]
+}
