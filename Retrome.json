@@ -429,6 +429,12 @@
                },
                {
 		        "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape47.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape47.jpg",
+                        "name": "Landscape47"
+               },
+               {
+		        "author": "David",
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Material/Material1.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Material1.jpg",
                         "name": "Material1"
@@ -948,6 +954,12 @@
     [
 	       {
 			"author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape47.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape47.jpg",
+                        "name": "Landscape47"
+               },
+               {
+		        "author": "David",
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape46.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape46.jpg",
                         "name": "Landscape46"
@@ -1422,6 +1434,12 @@
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape46.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape46.jpg",
                         "name": "Landscape46"
+	       },
+               }
+	                "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape47.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape47.jpg",
+                        "name": "Landscape47"
                }
     ],
     "Material":
