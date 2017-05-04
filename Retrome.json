@@ -946,9 +946,26 @@
     ],
     "Recents":
     [
-    	       
-               {
+	       {
 			"author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist30.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist30.jpg",
+                        "name": "Minimalist30"
+               },
+	       {
+			"author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist30.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist30.jpg",
+                        "name": "Minimalist30"
+               },
+    	       {
+			"author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist31.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist31.jpg",
+                        "name": "Minimalist31"
+               },
+               {
+                        "author": "David",
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Cities/City6.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/City6.jpg",
                         "name": "City6"
