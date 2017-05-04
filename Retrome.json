@@ -423,6 +423,12 @@
                },
                {
 			"author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape46.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape46.jpg",
+                        "name": "Landscape46"
+               },
+               {
+		        "author": "David",
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Material/Material1.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Material1.jpg",
                         "name": "Material1"
@@ -657,6 +663,24 @@
                },
                {
                         "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist29.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist29.jpg",
+                        "name": "Minimalist29"
+               },
+               { 
+		        "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist30.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist30.jpg",
+                        "name": "Minimalist30"
+               },
+               { 
+		        "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist31.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist31.jpg",
+                        "name": "Minimalist31"
+               },
+               {
+		        "author": "David",
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Misc/Misc1.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Misc1.jpg",
                         "name": "Misc1"
@@ -1375,6 +1399,12 @@
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape45.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape45.jpg",
                         "name": "Landscape45"
+	       },
+               {
+			"author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Landscape/Landscape46.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Landscape46.jpg",
+                        "name": "Landscape46"
                }
     ],
     "Material":
@@ -1621,6 +1651,24 @@
                         "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist28.jpg",
                         "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist28.jpg",
                         "name": "Minimalist28"
+	       },
+               {        
+		        "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist29.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist29.jpg",
+                        "name": "Minimalist29"
+               },
+               { 
+		        "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist30.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist30.jpg",
+                        "name": "Minimalist30"
+               },
+               { 
+		        "author": "David",
+                        "url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Minimalist/Minimalist31.jpg",
+                        "small_url": "https://raw.githubusercontent.com/DaviidH/Retrome-Wallpapers/master/Thumbnails/Minimalist31.jpg",
+                        "name": "Minimalist31"
                }
     ],
     "Misc":
